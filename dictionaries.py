@@ -31,6 +31,12 @@ inside tuple
 {'dictionary': 'inside dictionary'}
 inside dictionary
 """
+di={(1,2,3):'anits'}
+print(di)
+#{(1, 2, 3): 'anits'}
+print(di[(1,2,3)])
+#anits
+
 
 #errors
 
